@@ -31,7 +31,7 @@ This project was developed using **C#** with the main goal of practicing the **f
 ## 📂 Project Structure
 
 ```
-📁 ProjectName
+📁 AULA001
 │── 📂 AULA001           # Source code files
 │── 📂 AULA001.sln       # Visual Studio Solution
 │── README.md             # Project documentation
